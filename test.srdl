@@ -1,0 +1,9 @@
+// this is a comment
+/* this is
+   a block comment
+ */
+enum enum_t { a = 1; };
+reg my_reg {};
+regfile my_reg_file {};
+
+
